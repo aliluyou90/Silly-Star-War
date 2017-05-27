@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bgm.mp3</file>
+        <file>sheji.mp3</file>
+        <file>baozha.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>kai.png</file>
+        <file>yan.png</file>
+        <file>zidan.png</file>
+        <file>background.jpg</file>
+        <file>Images/chasseenemy.png</file>
+        <file>Images/normenemy.png</file>
+        <file>Images/player.png</file>
+        <file>Images/weaponenemy.png</file>
+    </qresource>
+</RCC>
