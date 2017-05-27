@@ -5,8 +5,6 @@
         <file>baozha.mp3</file>
     </qresource>
     <qresource prefix="/Images">
-        <file>kai.png</file>
-        <file>yan.png</file>
         <file>zidan.png</file>
         <file>background.jpg</file>
         <file>Images/chasseenemy.png</file>

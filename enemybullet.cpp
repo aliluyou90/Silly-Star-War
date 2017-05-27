@@ -1,7 +1,8 @@
 #include "enemybullet.h"
 #include "Game.h"
+
 extern Game* game;
-enemyBullet::enemyBullet(QGraphicsItem *parent, int newSpeed)
+enemyBullet::enemyBullet(QGraphicsItem *parent, int newSpeed):Bullet(parent)
 {
 setSpeed(newSpeed);
 }

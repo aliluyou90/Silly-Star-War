@@ -11,7 +11,7 @@ Bullet::Bullet(QGraphicsItem *parent,
 // connect
     QTimer * timer = new QTimer();
     connect(timer,SIGNAL(timeout()),this, SLOT(move()));
-//        谁      什么信号         给谁    连哪儿
+
    timer->start(10);
    bulletSpeed = Speed;
 
